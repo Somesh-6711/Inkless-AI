@@ -1,0 +1,10 @@
+opencv-python
+mediapipe
+tensorflow
+torch
+transformers
+sympy
+fastapi
+uvicorn
+streamlit
+onnxruntime
